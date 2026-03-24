@@ -3,6 +3,8 @@
 
 class FullHeap{};
 
+#define DEFAULT_SIZE 200;
+
 template<class T>
 class Heap {
 public:
